@@ -34,7 +34,7 @@ Refer to the [USE_CASES.md](./USE_CASES.md) file for a detailed list of use case
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/student-grades-analyzer.git
+   git clone https://github.com/justjslp/student-grades-analyzer.git
    cd student-grades-analyzer
    ```
 
