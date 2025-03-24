@@ -1,0 +1,2508 @@
+{
+  "List of students": [
+    {
+      "id": 1,
+      "name": "Student1",
+      "listOfGrades": {
+        "math": 9.6,
+        "science": 8.8,
+        "history": 6.7,
+        "spanish": 8,
+        "computerScience": 10,
+        "business": 8
+      }
+    },
+    {
+      "id": 2,
+      "name": "Student2",
+      "listOfGrades": {
+        "math": 7,
+        "science": 8.5,
+        "history": 8,
+        "spanish": 9,
+        "computerScience": 10,
+        "business": 7.9
+      }
+    },
+    {
+      "id": 3,
+      "name": "Student3",
+      "listOfGrades": {
+        "math": 8.8,
+        "science": 9.6,
+        "history": 9,
+        "spanish": 9.2,
+        "computerScience": 9.6,
+        "business": 9
+      }
+    },
+    {
+      "id": 4,
+      "name": "Student4",
+      "listOfGrades": {
+        "math": 8,
+        "science": 3,
+        "history": 8,
+        "spanish": 10,
+        "computerScience": 9.2,
+        "business": 10
+      }
+    },
+    {
+      "id": 5,
+      "name": "Student5",
+      "listOfGrades": {
+        "math": 9.7,
+        "science": 7.6,
+        "history": 7.7,
+        "spanish": 9.7,
+        "computerScience": 9.5,
+        "business": 7.3
+      }
+    },
+    {
+      "id": 6,
+      "name": "Student6",
+      "listOfGrades": {
+        "math": 7,
+        "science": 9.7,
+        "history": 6.4,
+        "spanish": 7.6,
+        "computerScience": 9.7,
+        "business": 8.1
+      }
+    },
+    {
+      "id": 7,
+      "name": "Student7",
+      "listOfGrades": {
+        "math": 8,
+        "science": 7.6,
+        "history": 9.3,
+        "spanish": 7.2,
+        "computerScience": 8.3,
+        "business": 8.4
+      }
+    },
+    {
+      "id": 8,
+      "name": "Student8",
+      "listOfGrades": {
+        "math": 7.8,
+        "science": 7.9,
+        "history": 8.4,
+        "spanish": 7.5,
+        "computerScience": 8.9,
+        "business": 9.4
+      }
+    },
+    {
+      "id": 9,
+      "name": "Student9",
+      "listOfGrades": {
+        "math": 9.4,
+        "science": 9.1,
+        "history": 8.7,
+        "spanish": 9.9,
+        "computerScience": 8.7,
+        "business": 8.6
+      }
+    },
+    {
+      "id": 10,
+      "name": "Student10",
+      "listOfGrades": {
+        "math": 9,
+        "science": 8.5,
+        "history": 6.7,
+        "spanish": 9.5,
+        "computerScience": 9.8,
+        "business": 9.1
+      }
+    },
+    {
+      "id": 11,
+      "name": "Student11",
+      "listOfGrades": {
+        "math": 9.6,
+        "science": 8.8,
+        "history": 8.2,
+        "spanish": 9.9,
+        "computerScience": 8.6,
+        "business": 7.4
+      }
+    },
+    {
+      "id": 12,
+      "name": "Student12",
+      "listOfGrades": {
+        "math": 7.9,
+        "science": 7.4,
+        "history": 8.7,
+        "spanish": 9.2,
+        "computerScience": 9.3,
+        "business": 8.8
+      }
+    },
+    {
+      "id": 13,
+      "name": "Student13",
+      "listOfGrades": {
+        "math": 10,
+        "science": 7.4,
+        "history": 8.7,
+        "spanish": 8.4,
+        "computerScience": 8.5,
+        "business": 9
+      }
+    },
+    {
+      "id": 14,
+      "name": "Student14",
+      "listOfGrades": {
+        "math": 8,
+        "science": 9.5,
+        "history": 8.1,
+        "spanish": 9.3,
+        "computerScience": 10,
+        "business": 8.4
+      }
+    },
+    {
+      "id": 15,
+      "name": "Student15",
+      "listOfGrades": {
+        "math": 7,
+        "science": 9.5,
+        "history": 6.7,
+        "spanish": 9.5,
+        "computerScience": 9.4,
+        "business": 9.2
+      }
+    },
+    {
+      "id": 16,
+      "name": "Student16",
+      "listOfGrades": {
+        "math": 8.9,
+        "science": 8.2,
+        "history": 9.9,
+        "spanish": 9.5,
+        "computerScience": 8.6,
+        "business": 9.8
+      }
+    },
+    {
+      "id": 17,
+      "name": "Student17",
+      "listOfGrades": {
+        "math": 9.3,
+        "science": 8.6,
+        "history": 9.8,
+        "spanish": 9.6,
+        "computerScience": 9.2,
+        "business": 9.9
+      }
+    },
+    {
+      "id": 18,
+      "name": "Student18",
+      "listOfGrades": {
+        "math": 8.7,
+        "science": 8.9,
+        "history": 9.7,
+        "spanish": 7.3,
+        "computerScience": 9.2,
+        "business": 9.5
+      }
+    },
+    {
+      "id": 19,
+      "name": "Student19",
+      "listOfGrades": {
+        "math": 9.7,
+        "science": 8.9,
+        "history": 6.6,
+        "spanish": 7.9,
+        "computerScience": 9.2,
+        "business": 8.4
+      }
+    },
+    {
+      "id": 20,
+      "name": "Student20",
+      "listOfGrades": {
+        "math": 7.4,
+        "science": 9,
+        "history": 8.6,
+        "spanish": 7.7,
+        "computerScience": 9.4,
+        "business": 9.5
+      }
+    },
+    {
+      "id": 21,
+      "name": "Student21",
+      "listOfGrades": {
+        "math": 9.9,
+        "science": 8.2,
+        "history": 7.5,
+        "spanish": 7.4,
+        "computerScience": 9.3,
+        "business": 8.4
+      }
+    },
+    {
+      "id": 22,
+      "name": "Student22",
+      "listOfGrades": {
+        "math": 8.9,
+        "science": 8.8,
+        "history": 6.6,
+        "spanish": 7.3,
+        "computerScience": 9.2,
+        "business": 8.5
+      }
+    },
+    {
+      "id": 23,
+      "name": "Student23",
+      "listOfGrades": {
+        "math": 9,
+        "science": 7.5,
+        "history": 6.1,
+        "spanish": 8.5,
+        "computerScience": 9.3,
+        "business": 8.6
+      }
+    },
+    {
+      "id": 24,
+      "name": "Student24",
+      "listOfGrades": {
+        "math": 7.6,
+        "science": 8.4,
+        "history": 8.5,
+        "spanish": 8.4,
+        "computerScience": 8.1,
+        "business": 8.3
+      }
+    },
+    {
+      "id": 25,
+      "name": "Student25",
+      "listOfGrades": {
+        "math": 8.6,
+        "science": 9.3,
+        "history": 8.2,
+        "spanish": 9.7,
+        "computerScience": 8.3,
+        "business": 8.7
+      }
+    },
+    {
+      "id": 26,
+      "name": "Student26",
+      "listOfGrades": {
+        "math": 7.1,
+        "science": 7.6,
+        "history": 9.2,
+        "spanish": 7.1,
+        "computerScience": 9.5,
+        "business": 9.1
+      }
+    },
+    {
+      "id": 27,
+      "name": "Student27",
+      "listOfGrades": {
+        "math": 7.3,
+        "science": 7.5,
+        "history": 8,
+        "spanish": 7.2,
+        "computerScience": 9.2,
+        "business": 10
+      }
+    },
+    {
+      "id": 28,
+      "name": "Student28",
+      "listOfGrades": {
+        "math": 7,
+        "science": 8.8,
+        "history": 6.1,
+        "spanish": 9.9,
+        "computerScience": 8.1,
+        "business": 9.2
+      }
+    },
+    {
+      "id": 29,
+      "name": "Student29",
+      "listOfGrades": {
+        "math": 7.5,
+        "science": 8.6,
+        "history": 9.2,
+        "spanish": 7.1,
+        "computerScience": 9.4,
+        "business": 8.6
+      }
+    },
+    {
+      "id": 30,
+      "name": "Student30",
+      "listOfGrades": {
+        "math": 9.6,
+        "science": 8.6,
+        "history": 8.2,
+        "spanish": 7.8,
+        "computerScience": 9.7,
+        "business": 9.7
+      }
+    },
+    {
+      "id": 31,
+      "name": "Student31",
+      "listOfGrades": {
+        "math": 8.6,
+        "science": 8.9,
+        "history": 9.1,
+        "spanish": 7.1,
+        "computerScience": 9.6,
+        "business": 8.4
+      }
+    },
+    {
+      "id": 32,
+      "name": "Student32",
+      "listOfGrades": {
+        "math": 8.9,
+        "science": 8.5,
+        "history": 6.2,
+        "spanish": 9.4,
+        "computerScience": 8.1,
+        "business": 7.4
+      }
+    },
+    {
+      "id": 33,
+      "name": "Student33",
+      "listOfGrades": {
+        "math": 8,
+        "science": 9.6,
+        "history": 8.4,
+        "spanish": 7.9,
+        "computerScience": 8.6,
+        "business": 7.3
+      }
+    },
+    {
+      "id": 34,
+      "name": "Student34",
+      "listOfGrades": {
+        "math": 7.3,
+        "science": 9.3,
+        "history": 7.4,
+        "spanish": 8.4,
+        "computerScience": 9.9,
+        "business": 7.5
+      }
+    },
+    {
+      "id": 35,
+      "name": "Student35",
+      "listOfGrades": {
+        "math": 7.5,
+        "science": 9.2,
+        "history": 9.5,
+        "spanish": 9,
+        "computerScience": 9.2,
+        "business": 7
+      }
+    },
+    {
+      "id": 36,
+      "name": "Student36",
+      "listOfGrades": {
+        "math": 7.4,
+        "science": 8.2,
+        "history": 8,
+        "spanish": 7.1,
+        "computerScience": 9.5,
+        "business": 9.2
+      }
+    },
+    {
+      "id": 37,
+      "name": "Student37",
+      "listOfGrades": {
+        "math": 7.4,
+        "science": 8.9,
+        "history": 7.3,
+        "spanish": 9.6,
+        "computerScience": 9.6,
+        "business": 7.5
+      }
+    },
+    {
+      "id": 38,
+      "name": "Student38",
+      "listOfGrades": {
+        "math": 9.3,
+        "science": 9.8,
+        "history": 7.8,
+        "spanish": 9,
+        "computerScience": 8.9,
+        "business": 9
+      }
+    },
+    {
+      "id": 39,
+      "name": "Student39",
+      "listOfGrades": {
+        "math": 8.7,
+        "science": 7.5,
+        "history": 6.3,
+        "spanish": 8,
+        "computerScience": 9.7,
+        "business": 8.1
+      }
+    },
+    {
+      "id": 40,
+      "name": "Student40",
+      "listOfGrades": {
+        "math": 8.8,
+        "science": 8.4,
+        "history": 6.2,
+        "spanish": 9.2,
+        "computerScience": 8,
+        "business": 8.4
+      }
+    },
+    {
+      "id": 41,
+      "name": "Student41",
+      "listOfGrades": {
+        "math": 9.1,
+        "science": 8.2,
+        "history": 8.9,
+        "spanish": 7.7,
+        "computerScience": 8.6,
+        "business": 7.4
+      }
+    },
+    {
+      "id": 42,
+      "name": "Student42",
+      "listOfGrades": {
+        "math": 9.4,
+        "science": 9.2,
+        "history": 8.6,
+        "spanish": 9.3,
+        "computerScience": 8.6,
+        "business": 9.9
+      }
+    },
+    {
+      "id": 43,
+      "name": "Student43",
+      "listOfGrades": {
+        "math": 7.7,
+        "science": 7.8,
+        "history": 9.4,
+        "spanish": 8.5,
+        "computerScience": 8.1,
+        "business": 8.6
+      }
+    },
+    {
+      "id": 44,
+      "name": "Student44",
+      "listOfGrades": {
+        "math": 8.3,
+        "science": 8.3,
+        "history": 7.5,
+        "spanish": 8.1,
+        "computerScience": 8.6,
+        "business": 7.9
+      }
+    },
+    {
+      "id": 45,
+      "name": "Student45",
+      "listOfGrades": {
+        "math": 7.7,
+        "science": 9.9,
+        "history": 7.1,
+        "spanish": 9.3,
+        "computerScience": 9.3,
+        "business": 7.7
+      }
+    },
+    {
+      "id": 46,
+      "name": "Student46",
+      "listOfGrades": {
+        "math": 8.7,
+        "science": 8.4,
+        "history": 6.6,
+        "spanish": 9.9,
+        "computerScience": 9.7,
+        "business": 8.9
+      }
+    },
+    {
+      "id": 47,
+      "name": "Student47",
+      "listOfGrades": {
+        "math": 9.2,
+        "science": 8.6,
+        "history": 6.6,
+        "spanish": 9.3,
+        "computerScience": 9,
+        "business": 8.6
+      }
+    },
+    {
+      "id": 48,
+      "name": "Student48",
+      "listOfGrades": {
+        "math": 7.6,
+        "science": 7.2,
+        "history": 6.1,
+        "spanish": 7.5,
+        "computerScience": 10,
+        "business": 7.4
+      }
+    },
+    {
+      "id": 49,
+      "name": "Student49",
+      "listOfGrades": {
+        "math": 9.6,
+        "science": 8.9,
+        "history": 6.9,
+        "spanish": 8.1,
+        "computerScience": 9,
+        "business": 8.2
+      }
+    },
+    {
+      "id": 50,
+      "name": "Student50",
+      "listOfGrades": {
+        "math": 9.2,
+        "science": 8.4,
+        "history": 6.5,
+        "spanish": 8,
+        "computerScience": 9,
+        "business": 7.6
+      }
+    }
+  ],
+  "Overall average": [
+    {
+      "name": "Student1",
+      "average": 8.52
+    },
+    {
+      "name": "Student2",
+      "average": 8.4
+    },
+    {
+      "name": "Student3",
+      "average": 9.2
+    },
+    {
+      "name": "Student4",
+      "average": 10
+    },
+    {
+      "name": "Student5",
+      "average": 8.58
+    },
+    {
+      "name": "Student6",
+      "average": 8.08
+    },
+    {
+      "name": "Student7",
+      "average": 8.13
+    },
+    {
+      "name": "Student8",
+      "average": 8.32
+    },
+    {
+      "name": "Student9",
+      "average": 9.07
+    },
+    {
+      "name": "Student10",
+      "average": 8.77
+    },
+    {
+      "name": "Student11",
+      "average": 8.75
+    },
+    {
+      "name": "Student12",
+      "average": 8.55
+    },
+    {
+      "name": "Student13",
+      "average": 8.67
+    },
+    {
+      "name": "Student14",
+      "average": 8.88
+    },
+    {
+      "name": "Student15",
+      "average": 8.55
+    },
+    {
+      "name": "Student16",
+      "average": 9.15
+    },
+    {
+      "name": "Student17",
+      "average": 9.4
+    },
+    {
+      "name": "Student18",
+      "average": 8.88
+    },
+    {
+      "name": "Student19",
+      "average": 8.45
+    },
+    {
+      "name": "Student20",
+      "average": 8.6
+    },
+    {
+      "name": "Student21",
+      "average": 8.45
+    },
+    {
+      "name": "Student22",
+      "average": 8.22
+    },
+    {
+      "name": "Student23",
+      "average": 8.17
+    },
+    {
+      "name": "Student24",
+      "average": 8.22
+    },
+    {
+      "name": "Student25",
+      "average": 8.8
+    },
+    {
+      "name": "Student26",
+      "average": 8.27
+    },
+    {
+      "name": "Student27",
+      "average": 8.2
+    },
+    {
+      "name": "Student28",
+      "average": 8.18
+    },
+    {
+      "name": "Student29",
+      "average": 8.4
+    },
+    {
+      "name": "Student30",
+      "average": 8.93
+    },
+    {
+      "name": "Student31",
+      "average": 8.62
+    },
+    {
+      "name": "Student32",
+      "average": 8.08
+    },
+    {
+      "name": "Student33",
+      "average": 8.3
+    },
+    {
+      "name": "Student34",
+      "average": 8.3
+    },
+    {
+      "name": "Student35",
+      "average": 8.57
+    },
+    {
+      "name": "Student36",
+      "average": 8.23
+    },
+    {
+      "name": "Student37",
+      "average": 8.38
+    },
+    {
+      "name": "Student38",
+      "average": 8.97
+    },
+    {
+      "name": "Student39",
+      "average": 8.05
+    },
+    {
+      "name": "Student40",
+      "average": 8.17
+    },
+    {
+      "name": "Student41",
+      "average": 8.32
+    },
+    {
+      "name": "Student42",
+      "average": 9.17
+    },
+    {
+      "name": "Student43",
+      "average": 8.35
+    },
+    {
+      "name": "Student44",
+      "average": 8.12
+    },
+    {
+      "name": "Student45",
+      "average": 8.5
+    },
+    {
+      "name": "Student46",
+      "average": 8.7
+    },
+    {
+      "name": "Student47",
+      "average": 8.55
+    },
+    {
+      "name": "Student48",
+      "average": 7.63
+    },
+    {
+      "name": "Student49",
+      "average": 8.45
+    },
+    {
+      "name": "Student50",
+      "average": 8.12
+    }
+  ],
+  "Students Performance Overall": [
+    {
+      "name": "Student4",
+      "average": 10
+    },
+    {
+      "name": "Student48",
+      "average": 7.63
+    }
+  ],
+  "Overall Statistics": [
+    {
+      "name": "Student1",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "computerScience",
+            "grade": 10
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 6.7
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student2",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "computerScience",
+            "grade": 10
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "math",
+            "grade": 7
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student3",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "science",
+            "grade": 9.6
+          },
+          {
+            "subject": "computerScience",
+            "grade": 9.6
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "math",
+            "grade": 8.8
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student4",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "math",
+            "grade": 10
+          },
+          {
+            "subject": "science",
+            "grade": 10
+          },
+          {
+            "subject": "history",
+            "grade": 10
+          },
+          {
+            "subject": "spanish",
+            "grade": 10
+          },
+          {
+            "subject": "computerScience",
+            "grade": 10
+          },
+          {
+            "subject": "business",
+            "grade": 10
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "math",
+            "grade": 10
+          },
+          {
+            "subject": "science",
+            "grade": 10
+          },
+          {
+            "subject": "history",
+            "grade": 10
+          },
+          {
+            "subject": "spanish",
+            "grade": 10
+          },
+          {
+            "subject": "computerScience",
+            "grade": 10
+          },
+          {
+            "subject": "business",
+            "grade": 10
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student5",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "math",
+            "grade": 9.7
+          },
+          {
+            "subject": "spanish",
+            "grade": 9.7
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "business",
+            "grade": 7.3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student6",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "science",
+            "grade": 9.7
+          },
+          {
+            "subject": "computerScience",
+            "grade": 9.7
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 6.4
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student7",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "history",
+            "grade": 9.3
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "spanish",
+            "grade": 7.2
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student8",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "business",
+            "grade": 9.4
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "spanish",
+            "grade": 7.5
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student9",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "spanish",
+            "grade": 9.9
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "business",
+            "grade": 8.6
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student10",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "computerScience",
+            "grade": 9.8
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 6.7
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student11",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "spanish",
+            "grade": 9.9
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "business",
+            "grade": 7.4
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student12",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "computerScience",
+            "grade": 9.3
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "science",
+            "grade": 7.4
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student13",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "math",
+            "grade": 10
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "science",
+            "grade": 7.4
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student14",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "computerScience",
+            "grade": 10
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "math",
+            "grade": 8
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student15",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "science",
+            "grade": 9.5
+          },
+          {
+            "subject": "spanish",
+            "grade": 9.5
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 6.7
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student16",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "history",
+            "grade": 9.9
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "science",
+            "grade": 8.2
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student17",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "business",
+            "grade": 9.9
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "science",
+            "grade": 8.6
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student18",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "history",
+            "grade": 9.7
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "spanish",
+            "grade": 7.3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student19",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "math",
+            "grade": 9.7
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 6.6
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student20",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "business",
+            "grade": 9.5
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "math",
+            "grade": 7.4
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student21",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "math",
+            "grade": 9.9
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "spanish",
+            "grade": 7.4
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student22",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "computerScience",
+            "grade": 9.2
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 6.6
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student23",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "computerScience",
+            "grade": 9.3
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 6.1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student24",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "history",
+            "grade": 8.5
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "math",
+            "grade": 7.6
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student25",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "spanish",
+            "grade": 9.7
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 8.2
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student26",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "computerScience",
+            "grade": 9.5
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "math",
+            "grade": 7.1
+          },
+          {
+            "subject": "spanish",
+            "grade": 7.1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student27",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "business",
+            "grade": 10
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "spanish",
+            "grade": 7.2
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student28",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "spanish",
+            "grade": 9.9
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 6.1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student29",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "computerScience",
+            "grade": 9.4
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "spanish",
+            "grade": 7.1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student30",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "computerScience",
+            "grade": 9.7
+          },
+          {
+            "subject": "business",
+            "grade": 9.7
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "spanish",
+            "grade": 7.8
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student31",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "computerScience",
+            "grade": 9.6
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "spanish",
+            "grade": 7.1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student32",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "spanish",
+            "grade": 9.4
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 6.2
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student33",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "science",
+            "grade": 9.6
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "business",
+            "grade": 7.3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student34",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "computerScience",
+            "grade": 9.9
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "math",
+            "grade": 7.3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student35",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "history",
+            "grade": 9.5
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "business",
+            "grade": 7
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student36",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "computerScience",
+            "grade": 9.5
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "spanish",
+            "grade": 7.1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student37",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "spanish",
+            "grade": 9.6
+          },
+          {
+            "subject": "computerScience",
+            "grade": 9.6
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 7.3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student38",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "science",
+            "grade": 9.8
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 7.8
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student39",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "computerScience",
+            "grade": 9.7
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 6.3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student40",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "spanish",
+            "grade": 9.2
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 6.2
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student41",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "math",
+            "grade": 9.1
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "business",
+            "grade": 7.4
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student42",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "business",
+            "grade": 9.9
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 8.6
+          },
+          {
+            "subject": "computerScience",
+            "grade": 8.6
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student43",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "history",
+            "grade": 9.4
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "math",
+            "grade": 7.7
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student44",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "computerScience",
+            "grade": 8.6
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 7.5
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student45",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "science",
+            "grade": 9.9
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 7.1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student46",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "spanish",
+            "grade": 9.9
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 6.6
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student47",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "spanish",
+            "grade": 9.3
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 6.6
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student48",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "computerScience",
+            "grade": 10
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 6.1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student49",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "math",
+            "grade": 9.6
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 6.9
+          }
+        ]
+      }
+    },
+    {
+      "name": "Student50",
+      "highestAndLowestSubjects": {
+        "highestSubjects": [
+          {
+            "subject": "math",
+            "grade": 9.2
+          }
+        ],
+        "lowestSubjects": [
+          {
+            "subject": "history",
+            "grade": 6.5
+          }
+        ]
+      }
+    }
+  ],
+  "Student's statistics": {
+    "id": 1,
+    "name": "Student1",
+    "listOfGrades": {
+      "math": 9.6,
+      "science": 8.8,
+      "history": 6.7,
+      "spanish": 8,
+      "computerScience": 10,
+      "business": 8
+    }
+  },
+  "Students Above Threshold": [
+    {
+      "name": "Student1",
+      "average": 8.52,
+      "listOfGrades": {
+        "math": 9.6,
+        "science": 8.8,
+        "history": 6.7,
+        "spanish": 8,
+        "computerScience": 10,
+        "business": 8
+      }
+    },
+    {
+      "name": "Student2",
+      "average": 8.4,
+      "listOfGrades": {
+        "math": 7,
+        "science": 8.5,
+        "history": 8,
+        "spanish": 9,
+        "computerScience": 10,
+        "business": 7.9
+      }
+    },
+    {
+      "name": "Student3",
+      "average": 9.2,
+      "listOfGrades": {
+        "math": 8.8,
+        "science": 9.6,
+        "history": 9,
+        "spanish": 9.2,
+        "computerScience": 9.6,
+        "business": 9
+      }
+    },
+    {
+      "name": "Student4",
+      "average": 10,
+      "listOfGrades": {
+        "math": 8,
+        "science": 3,
+        "history": 8,
+        "spanish": 10,
+        "computerScience": 9.2,
+        "business": 10
+      }
+    },
+    {
+      "name": "Student5",
+      "average": 8.58,
+      "listOfGrades": {
+        "math": 9.7,
+        "science": 7.6,
+        "history": 7.7,
+        "spanish": 9.7,
+        "computerScience": 9.5,
+        "business": 7.3
+      }
+    },
+    {
+      "name": "Student9",
+      "average": 9.07,
+      "listOfGrades": {
+        "math": 9.4,
+        "science": 9.1,
+        "history": 8.7,
+        "spanish": 9.9,
+        "computerScience": 8.7,
+        "business": 8.6
+      }
+    },
+    {
+      "name": "Student10",
+      "average": 8.77,
+      "listOfGrades": {
+        "math": 9,
+        "science": 8.5,
+        "history": 6.7,
+        "spanish": 9.5,
+        "computerScience": 9.8,
+        "business": 9.1
+      }
+    },
+    {
+      "name": "Student11",
+      "average": 8.75,
+      "listOfGrades": {
+        "math": 9.6,
+        "science": 8.8,
+        "history": 8.2,
+        "spanish": 9.9,
+        "computerScience": 8.6,
+        "business": 7.4
+      }
+    },
+    {
+      "name": "Student12",
+      "average": 8.55,
+      "listOfGrades": {
+        "math": 7.9,
+        "science": 7.4,
+        "history": 8.7,
+        "spanish": 9.2,
+        "computerScience": 9.3,
+        "business": 8.8
+      }
+    },
+    {
+      "name": "Student13",
+      "average": 8.67,
+      "listOfGrades": {
+        "math": 10,
+        "science": 7.4,
+        "history": 8.7,
+        "spanish": 8.4,
+        "computerScience": 8.5,
+        "business": 9
+      }
+    },
+    {
+      "name": "Student14",
+      "average": 8.88,
+      "listOfGrades": {
+        "math": 8,
+        "science": 9.5,
+        "history": 8.1,
+        "spanish": 9.3,
+        "computerScience": 10,
+        "business": 8.4
+      }
+    },
+    {
+      "name": "Student15",
+      "average": 8.55,
+      "listOfGrades": {
+        "math": 7,
+        "science": 9.5,
+        "history": 6.7,
+        "spanish": 9.5,
+        "computerScience": 9.4,
+        "business": 9.2
+      }
+    },
+    {
+      "name": "Student16",
+      "average": 9.15,
+      "listOfGrades": {
+        "math": 8.9,
+        "science": 8.2,
+        "history": 9.9,
+        "spanish": 9.5,
+        "computerScience": 8.6,
+        "business": 9.8
+      }
+    },
+    {
+      "name": "Student17",
+      "average": 9.4,
+      "listOfGrades": {
+        "math": 9.3,
+        "science": 8.6,
+        "history": 9.8,
+        "spanish": 9.6,
+        "computerScience": 9.2,
+        "business": 9.9
+      }
+    },
+    {
+      "name": "Student18",
+      "average": 8.88,
+      "listOfGrades": {
+        "math": 8.7,
+        "science": 8.9,
+        "history": 9.7,
+        "spanish": 7.3,
+        "computerScience": 9.2,
+        "business": 9.5
+      }
+    },
+    {
+      "name": "Student19",
+      "average": 8.45,
+      "listOfGrades": {
+        "math": 9.7,
+        "science": 8.9,
+        "history": 6.6,
+        "spanish": 7.9,
+        "computerScience": 9.2,
+        "business": 8.4
+      }
+    },
+    {
+      "name": "Student20",
+      "average": 8.6,
+      "listOfGrades": {
+        "math": 7.4,
+        "science": 9,
+        "history": 8.6,
+        "spanish": 7.7,
+        "computerScience": 9.4,
+        "business": 9.5
+      }
+    },
+    {
+      "name": "Student21",
+      "average": 8.45,
+      "listOfGrades": {
+        "math": 9.9,
+        "science": 8.2,
+        "history": 7.5,
+        "spanish": 7.4,
+        "computerScience": 9.3,
+        "business": 8.4
+      }
+    },
+    {
+      "name": "Student25",
+      "average": 8.8,
+      "listOfGrades": {
+        "math": 8.6,
+        "science": 9.3,
+        "history": 8.2,
+        "spanish": 9.7,
+        "computerScience": 8.3,
+        "business": 8.7
+      }
+    },
+    {
+      "name": "Student29",
+      "average": 8.4,
+      "listOfGrades": {
+        "math": 7.5,
+        "science": 8.6,
+        "history": 9.2,
+        "spanish": 7.1,
+        "computerScience": 9.4,
+        "business": 8.6
+      }
+    },
+    {
+      "name": "Student30",
+      "average": 8.93,
+      "listOfGrades": {
+        "math": 9.6,
+        "science": 8.6,
+        "history": 8.2,
+        "spanish": 7.8,
+        "computerScience": 9.7,
+        "business": 9.7
+      }
+    },
+    {
+      "name": "Student31",
+      "average": 8.62,
+      "listOfGrades": {
+        "math": 8.6,
+        "science": 8.9,
+        "history": 9.1,
+        "spanish": 7.1,
+        "computerScience": 9.6,
+        "business": 8.4
+      }
+    },
+    {
+      "name": "Student35",
+      "average": 8.57,
+      "listOfGrades": {
+        "math": 7.5,
+        "science": 9.2,
+        "history": 9.5,
+        "spanish": 9,
+        "computerScience": 9.2,
+        "business": 7
+      }
+    },
+    {
+      "name": "Student38",
+      "average": 8.97,
+      "listOfGrades": {
+        "math": 9.3,
+        "science": 9.8,
+        "history": 7.8,
+        "spanish": 9,
+        "computerScience": 8.9,
+        "business": 9
+      }
+    },
+    {
+      "name": "Student42",
+      "average": 9.17,
+      "listOfGrades": {
+        "math": 9.4,
+        "science": 9.2,
+        "history": 8.6,
+        "spanish": 9.3,
+        "computerScience": 8.6,
+        "business": 9.9
+      }
+    },
+    {
+      "name": "Student45",
+      "average": 8.5,
+      "listOfGrades": {
+        "math": 7.7,
+        "science": 9.9,
+        "history": 7.1,
+        "spanish": 9.3,
+        "computerScience": 9.3,
+        "business": 7.7
+      }
+    },
+    {
+      "name": "Student46",
+      "average": 8.7,
+      "listOfGrades": {
+        "math": 8.7,
+        "science": 8.4,
+        "history": 6.6,
+        "spanish": 9.9,
+        "computerScience": 9.7,
+        "business": 8.9
+      }
+    },
+    {
+      "name": "Student47",
+      "average": 8.55,
+      "listOfGrades": {
+        "math": 9.2,
+        "science": 8.6,
+        "history": 6.6,
+        "spanish": 9.3,
+        "computerScience": 9,
+        "business": 8.6
+      }
+    },
+    {
+      "name": "Student49",
+      "average": 8.45,
+      "listOfGrades": {
+        "math": 9.6,
+        "science": 8.9,
+        "history": 6.9,
+        "spanish": 8.1,
+        "computerScience": 9,
+        "business": 8.2
+      }
+    }
+  ],
+  "Sorted Students": {
+    "ascending": [
+      {
+        "name": "Student48",
+        "average": 7.63
+      },
+      {
+        "name": "Student39",
+        "average": 8.05
+      },
+      {
+        "name": "Student6",
+        "average": 8.08
+      },
+      {
+        "name": "Student32",
+        "average": 8.08
+      },
+      {
+        "name": "Student44",
+        "average": 8.12
+      },
+      {
+        "name": "Student50",
+        "average": 8.12
+      },
+      {
+        "name": "Student7",
+        "average": 8.13
+      },
+      {
+        "name": "Student23",
+        "average": 8.17
+      },
+      {
+        "name": "Student40",
+        "average": 8.17
+      },
+      {
+        "name": "Student28",
+        "average": 8.18
+      },
+      {
+        "name": "Student27",
+        "average": 8.2
+      },
+      {
+        "name": "Student22",
+        "average": 8.22
+      },
+      {
+        "name": "Student24",
+        "average": 8.22
+      },
+      {
+        "name": "Student36",
+        "average": 8.23
+      },
+      {
+        "name": "Student26",
+        "average": 8.27
+      },
+      {
+        "name": "Student33",
+        "average": 8.3
+      },
+      {
+        "name": "Student34",
+        "average": 8.3
+      },
+      {
+        "name": "Student8",
+        "average": 8.32
+      },
+      {
+        "name": "Student41",
+        "average": 8.32
+      },
+      {
+        "name": "Student43",
+        "average": 8.35
+      },
+      {
+        "name": "Student37",
+        "average": 8.38
+      },
+      {
+        "name": "Student2",
+        "average": 8.4
+      },
+      {
+        "name": "Student29",
+        "average": 8.4
+      },
+      {
+        "name": "Student19",
+        "average": 8.45
+      },
+      {
+        "name": "Student21",
+        "average": 8.45
+      },
+      {
+        "name": "Student49",
+        "average": 8.45
+      },
+      {
+        "name": "Student45",
+        "average": 8.5
+      },
+      {
+        "name": "Student1",
+        "average": 8.52
+      },
+      {
+        "name": "Student12",
+        "average": 8.55
+      },
+      {
+        "name": "Student15",
+        "average": 8.55
+      },
+      {
+        "name": "Student47",
+        "average": 8.55
+      },
+      {
+        "name": "Student35",
+        "average": 8.57
+      },
+      {
+        "name": "Student5",
+        "average": 8.58
+      },
+      {
+        "name": "Student20",
+        "average": 8.6
+      },
+      {
+        "name": "Student31",
+        "average": 8.62
+      },
+      {
+        "name": "Student13",
+        "average": 8.67
+      },
+      {
+        "name": "Student46",
+        "average": 8.7
+      },
+      {
+        "name": "Student11",
+        "average": 8.75
+      },
+      {
+        "name": "Student10",
+        "average": 8.77
+      },
+      {
+        "name": "Student25",
+        "average": 8.8
+      },
+      {
+        "name": "Student14",
+        "average": 8.88
+      },
+      {
+        "name": "Student18",
+        "average": 8.88
+      },
+      {
+        "name": "Student30",
+        "average": 8.93
+      },
+      {
+        "name": "Student38",
+        "average": 8.97
+      },
+      {
+        "name": "Student9",
+        "average": 9.07
+      },
+      {
+        "name": "Student16",
+        "average": 9.15
+      },
+      {
+        "name": "Student42",
+        "average": 9.17
+      },
+      {
+        "name": "Student3",
+        "average": 9.2
+      },
+      {
+        "name": "Student17",
+        "average": 9.4
+      },
+      {
+        "name": "Student4",
+        "average": 10
+      }
+    ],
+    "descending": [
+      {
+        "name": "Student4",
+        "average": 10
+      },
+      {
+        "name": "Student17",
+        "average": 9.4
+      },
+      {
+        "name": "Student3",
+        "average": 9.2
+      },
+      {
+        "name": "Student42",
+        "average": 9.17
+      },
+      {
+        "name": "Student16",
+        "average": 9.15
+      },
+      {
+        "name": "Student9",
+        "average": 9.07
+      },
+      {
+        "name": "Student38",
+        "average": 8.97
+      },
+      {
+        "name": "Student30",
+        "average": 8.93
+      },
+      {
+        "name": "Student14",
+        "average": 8.88
+      },
+      {
+        "name": "Student18",
+        "average": 8.88
+      },
+      {
+        "name": "Student25",
+        "average": 8.8
+      },
+      {
+        "name": "Student10",
+        "average": 8.77
+      },
+      {
+        "name": "Student11",
+        "average": 8.75
+      },
+      {
+        "name": "Student46",
+        "average": 8.7
+      },
+      {
+        "name": "Student13",
+        "average": 8.67
+      },
+      {
+        "name": "Student31",
+        "average": 8.62
+      },
+      {
+        "name": "Student20",
+        "average": 8.6
+      },
+      {
+        "name": "Student5",
+        "average": 8.58
+      },
+      {
+        "name": "Student35",
+        "average": 8.57
+      },
+      {
+        "name": "Student12",
+        "average": 8.55
+      },
+      {
+        "name": "Student15",
+        "average": 8.55
+      },
+      {
+        "name": "Student47",
+        "average": 8.55
+      },
+      {
+        "name": "Student1",
+        "average": 8.52
+      },
+      {
+        "name": "Student45",
+        "average": 8.5
+      },
+      {
+        "name": "Student19",
+        "average": 8.45
+      },
+      {
+        "name": "Student21",
+        "average": 8.45
+      },
+      {
+        "name": "Student49",
+        "average": 8.45
+      },
+      {
+        "name": "Student2",
+        "average": 8.4
+      },
+      {
+        "name": "Student29",
+        "average": 8.4
+      },
+      {
+        "name": "Student37",
+        "average": 8.38
+      },
+      {
+        "name": "Student43",
+        "average": 8.35
+      },
+      {
+        "name": "Student8",
+        "average": 8.32
+      },
+      {
+        "name": "Student41",
+        "average": 8.32
+      },
+      {
+        "name": "Student33",
+        "average": 8.3
+      },
+      {
+        "name": "Student34",
+        "average": 8.3
+      },
+      {
+        "name": "Student26",
+        "average": 8.27
+      },
+      {
+        "name": "Student36",
+        "average": 8.23
+      },
+      {
+        "name": "Student22",
+        "average": 8.22
+      },
+      {
+        "name": "Student24",
+        "average": 8.22
+      },
+      {
+        "name": "Student27",
+        "average": 8.2
+      },
+      {
+        "name": "Student28",
+        "average": 8.18
+      },
+      {
+        "name": "Student23",
+        "average": 8.17
+      },
+      {
+        "name": "Student40",
+        "average": 8.17
+      },
+      {
+        "name": "Student7",
+        "average": 8.13
+      },
+      {
+        "name": "Student44",
+        "average": 8.12
+      },
+      {
+        "name": "Student50",
+        "average": 8.12
+      },
+      {
+        "name": "Student6",
+        "average": 8.08
+      },
+      {
+        "name": "Student32",
+        "average": 8.08
+      },
+      {
+        "name": "Student39",
+        "average": 8.05
+      },
+      {
+        "name": "Student48",
+        "average": 7.63
+      }
+    ]
+  }
+}
